@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stickerkit.app/sitemap-index.xml
